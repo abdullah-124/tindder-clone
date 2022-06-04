@@ -1,0 +1,26 @@
+.swiper_button{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0;
+    transition: all ease-out .4s;
+    box-shadow: 3px 0px 10px #ccc;
+}
+.swiperButton_reply{
+    color: royalblue;
+    transition: all 3s;
+}
+.swiperButton_star{
+    color: orange
+}
+.swiperButton_close{
+    color: crimson;
+}
+.swiperButton_favorite{
+    color: #E73D76
+}
+.swiperButton_flashOn{
+    color: purple;
+}
